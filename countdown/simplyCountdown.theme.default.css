@@ -1,0 +1,26 @@
+.countdown {
+  display: flex;
+  gap: 20px;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.countdown div {
+  background: #222;
+  padding: 20px;
+  border-radius: 10%;
+  background-color: red;
+  margin-left: 10%;
+}
+
+.countdown span {
+  display: block;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.countdown small {
+  display: block;
+  font-size: 1rem;
+  color: #aaa;
+}
